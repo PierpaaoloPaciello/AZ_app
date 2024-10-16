@@ -1,6 +1,8 @@
 streamlit
 yfinance
 matplotlib
+statsmodels
+arch
 seaborn
 pandas
 numpy
