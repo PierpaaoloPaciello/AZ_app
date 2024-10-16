@@ -2,6 +2,7 @@ streamlit
 yfinance
 matplotlib
 statsmodels
+sklearn
 arch
 seaborn
 pandas
